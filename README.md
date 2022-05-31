@@ -1,7 +1,6 @@
 # Victor Carvalho
 ###  -Hi there 🖖 
-####  - Welcome to my github profile ✨
-##### - I am a full-stack developer and student of technology in computer systems at Universidade Federal Fluminense 🎓
+###  - I am a full-stack developer and student of technology in computer systems at Universidade Federal Fluminense 🎓
 
 
 ### Tools and Technologies
